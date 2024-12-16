@@ -1,4 +1,4 @@
-# Portfolio
+# My Portfolio
 ### Hi there 👋, my name is Sedtavian Robinson
 #### I'm interested in coding, sports, and animation
 Hi everyone, my name is Sedtavian Robinson. I am a student at ComputerCoach, focusing on front-end web development. I was born in Ft. Myers on August 17th, 2006. I was raised in Kissimmee, and then my family moved to Lakeland.
